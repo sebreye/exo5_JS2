@@ -1,9 +1,12 @@
+
+// francois
 let francois = {
     panier : ['tomate', 'lait', 'patate', 'carotte', 'pain'],
     derober(sergio){
         francois.panier.push(sergio.panier.pop(), sergio.panier.pop())
     }
 }
+// sergio
 let sergio = {
     panier : ['courgette', 'glace', 'thon','jus', 'coca', ],
 }
